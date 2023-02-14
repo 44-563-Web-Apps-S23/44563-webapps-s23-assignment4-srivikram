@@ -1,0 +1,36 @@
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+  }
+  
+  .direction {
+    font-family: Times New Roman, serif;
+    font-size: 14px;
+    color: black;
+    background-color: #7798fc;
+  }
+  
+  .direction:hover {
+    text-shadow: 2px 2px Lavender;
+    background-color: #FAFA33;
+    color: #a62c2b;
+  }
+  
+  .name {
+    font-weight: bold;
+    color:#d0e1f9;
+  }
+  
+  .FRAULINDEMANN {
+    color: blue;
+  }
+  
+  .ROSA {
+    color: green;
+  }
+  
+  .STRÜBEL {
+    color: purple;
+  }
+  
