@@ -2,35 +2,34 @@
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: black;
-  }
-  
-  .direction {
+}
+
+.direction {
     font-family: Times New Roman, serif;
     font-size: 14px;
     color: black;
     background-color: #7798fc;
-  }
-  
-  .direction:hover {
+}
+
+.direction:hover {
     text-shadow: 2px 2px Lavender;
     background-color: #FAFA33;
     color: #a62c2b;
-  }
-  
-  .name {
+}
+
+.name {
     font-weight: bold;
-    color:#d0e1f9;
-  }
-  
-  .FRAULINDEMANN {
+    color: #fe9c8f;
+}
+
+.FRAULINDEMANN {
     color: blue;
-  }
-  
-  .ROSA {
-    color: green;
-  }
-  
-  .STRÜBEL {
-    color: purple;
-  }
-  
+}
+
+.ROSA {
+    color: #f37735;
+}
+
+.STRÜBEL {
+    color: #be9b7b;
+}
