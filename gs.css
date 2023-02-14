@@ -26,12 +26,36 @@
     color: blue;
 }
 
+.FRAULINDEMANN:hover {
+    font-size: medium;
+    color: red;
+    text-shadow: 2px 2px 4px #000000;
+    filter: blur(0.5px);
+    border-style: outset;
+}
+
 .ROSA {
     color: #f37735;
 }
 
+.ROSA:hover {
+    font-size: medium;
+    color: red;
+    text-shadow: 2px 2px 4px #000000;
+    filter: blur(0.5px);
+    border-style: outset;
+}
+
 .STRÜBEL {
     color: #be9b7b;
+}
+
+.STRÜBEL:hover {
+    font-size: medium;
+    color: red;
+    text-shadow: 2px 2px 4px #000000;
+    filter: blur(0.5px);
+    border-style: outset;
 }
 
 table,
