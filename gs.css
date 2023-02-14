@@ -33,3 +33,22 @@
 .STRÜBEL {
     color: #be9b7b;
 }
+
+table,
+td,
+th {
+    border: 1px solid black;
+}
+
+table {
+    color: #e28743;
+    border-collapse: collapse;
+    width: 75%;
+    margin-left: 50px;
+    text-align: center;
+    padding: 15px;
+}
+
+tr:nth-child(even) {
+    background-color: #eeeee4;
+}
